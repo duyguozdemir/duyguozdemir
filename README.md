@@ -20,14 +20,6 @@
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="oracle" width="40" height="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://camo.githubusercontent.com/e6d66d8d467c31e01e6ac683dc7062fb14da23730952e2fb684487ad80d3227e/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d6272616e64732d332f32342f6c6f676f5f6272616e645f6272616e64735f6c6f676f735f61646f62655f70686f746f73686f702d3531322e706e67"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="postgresql" width="40" height="40" />
   </a>
