@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karanfil Duygu</h1>
 <h3 align="center">Quality Assurance Specialist</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=huseyinsaritas&label=Profile%20views&color=0e75b6&style=flat" alt="duyguozdemir" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=duyguozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="duyguozdemir" /></p>
 - 💬 Ask me about **PostgreSQL PLSQL** - 📫 How to reach me **kduygu.ozdemir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
