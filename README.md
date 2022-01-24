@@ -37,5 +37,7 @@
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30" />
   </a>
 <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
+    <a href="www.jetbrains.com/pycharm/" target="_blank" > <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="pycharm" width="30" height="30"/> </a> 
+    <a href="www.jetbrains.com/idea/" target="_blank" > <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="intellij idea" width="30" height="30"/> </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kduyguozdemir&show_icons=true&locale=en" alt="kduyguozdemir" /></p>
