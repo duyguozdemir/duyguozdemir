@@ -1,43 +1,133 @@
-<h1 align="center">Hi 👋, I'm Karanfil Duygu</h1>
-<h3 align="center">Quality Assurance Specialist</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=duyguozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="duyguozdemir" /></p>
+# Hi there! 👋 I'm Karanfil Duygu
 
-📫 How to reach me **kduygu.ozdemir@gmail.com**
-💬 Ask me about automation / manual testing 
+### QA Automation Engineer | SDET | AI Testing Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/karanfilduyguozdemir" target="blank"
-    ><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="huseyinsaritas" height="30" width="30"
-  /></a>
-  <a href="https://www.hackerrank.com/kduygu_ozdemir" target="blank"
-    ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kduygu_ozdemir" height="30" width="30"
-  /></a>
-  <a href="https://medium.com/@kduygu.ozdemir" target="blank"
-  ><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="kduygu.ozdemir" height="30" width="30"
-/></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" style="max-width: 100%;"> </a>
-  <a href="https://cucumber.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/aed0850f4a3c6a32fb74caddb8de40bb6b76cfb04293f0c26489c9676a741af4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f637563756d626572696f2f637563756d626572696f2d69636f6e2e737667" alt="cucumber" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" style="max-width: 100%;"> </a>
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" alt="selenium" width="30" height="30" />
-</a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="linux" width="30" height="30" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="oracle" width="30" height="30" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="postgresql" width="30" height="30" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30" />
-  </a>
-<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
-    <a href="www.jetbrains.com/pycharm/" target="_blank" > <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="pycharm" width="30" height="30"/> </a> 
-    <a href="www.jetbrains.com/idea/" target="_blank" > <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="intellij idea" width="30" height="30"/> </a>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kduyguozdemir&show_icons=true&locale=en" alt="kduyguozdemir" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kduyguozdemir&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/kduyguozdemir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanfilduyguozdemir)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kduygu.ozdemir@gmail.com)
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Quality Assurance and Test Automation Engineer** passionate about building reliable, scalable, and maintainable testing solutions.
+
+My focus is on improving software quality through **test automation, quality engineering practices, and AI-assisted testing workflows**.
+
+I enjoy combining software engineering principles with modern testing strategies to deliver high-quality applications.
+
+- 🔭 **Currently focusing on:** Advanced Test Automation, SDET practices, and AI Testing
+- 🌱 **Exploring:** LLM Evaluation, AI Agents, MCP, and RAG Testing
+- 🧪 **Testing expertise:** UI, API, Functional, Regression, Integration, and End-to-End Testing
+- 🤖 **AI & Automation:** Generative AI-assisted testing and automated workflows
+- 🎓 **Certification:** ISTQB Certified Tester Foundation Level (CTFL)
+- 💬 **Ask me about:** Test Automation, QA Engineering, API Testing, and Software Quality
+- 📍 **Location:** Izmir, Türkiye
+- 📫 **Contact:** kduygu.ozdemir@gmail.com
+
+---
+
+## 🛠️ Technical Skills
+
+### Test Automation & Quality Engineering
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Programming & Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### CI/CD & Development Tools
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 🤖 AI Testing & Quality Engineering
+
+I'm interested in applying AI technologies to software testing and quality engineering.
+
+**Areas of focus:**
+
+- LLM Evaluation & Response Quality
+- AI Agent Testing & Workflow Validation
+- Retrieval-Augmented Generation (RAG) Testing
+- Hallucination Detection & Response Consistency
+- AI-Assisted Test Case Generation
+- Model Context Protocol (MCP)
+- Automated Regression Testing
+
+---
+
+## 🚀 Featured Projects
+
+### Enterprise Playwright Automation Framework
+
+A test automation framework designed around modern SDET practices.
+
+**Tech Stack:** Playwright · TypeScript · REST API Testing · GitHub Actions
+
+**Features:**
+- UI and API test automation
+- Page Object Model (POM)
+- Cross-browser testing
+- Reusable fixtures and test data
+- CI/CD integration
+- HTML and JUnit reporting
+- Screenshots, traces, and debugging support
+
+[View Repository](https://github.com/kduyguozdemir/enterprise-playwright-automation)
+
+---
+
+## 🏆 Certifications
+
+**ISTQB® Certified Tester – Foundation Level (CTFL)**
+
+Knowledge areas include:
+
+- Software Testing Fundamentals
+- Test Analysis & Design
+- Black-Box and White-Box Testing
+- Test Management
+- Risk-Based Testing
+- Test Automation Fundamentals
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kduyguozdemir&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kduyguozdemir&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karanfil_Duygu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanfilduyguozdemir)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/kduygu_ozdemir)
+
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kduygu.ozdemir)
+
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kduygu.ozdemir@gmail.com)
+
+---
+
+*Building better software through smarter testing.*
