@@ -102,7 +102,7 @@ A test automation framework designed around modern SDET practices.
 
 ## 🏆 Certifications
 
-# ISTQB® Certified Tester – Foundation Level (CTFL)
+### ISTQB® Certified Tester – Foundation Level (CTFL)
 
 Knowledge areas include:
 
@@ -113,7 +113,7 @@ Knowledge areas include:
 - Risk-Based Testing
 - Test Automation Fundamentals
 
-# ISTQB® Certified Tester – AI Testing (CT-AI)
+### ISTQB® Certified Tester – AI Testing (CT-AI)
 
 Knowledge areas include:
 
