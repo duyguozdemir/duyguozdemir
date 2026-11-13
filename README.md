@@ -5,11 +5,9 @@
 <a href="https://github.com/kduyguozdemir" target="_blank" rel="noopener noreferrer">
   <img src="https://komarev.com/ghpvc/?username=kduyguozdemir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </a>
-
 <a href="https://linkedin.com/in/karanfilduyguozdemir" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:kduygu.ozdemir@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
