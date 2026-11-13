@@ -113,6 +113,35 @@ Knowledge areas include:
 - Risk-Based Testing
 - Test Automation Fundamentals
 
+
+## Certifications
+
+### ISTQB® Certified Tester – Foundation Level (CTFL)
+
+Knowledge areas include:
+
+- Software Testing Fundamentals
+- Test Analysis & Design
+- Black-Box and White-Box Testing
+- Test Management
+- Risk-Based Testing
+- Test Automation Fundamentals
+
+### ISTQB® Certified Tester – AI Testing (CT-AI)
+
+Knowledge areas include:
+
+- AI and Machine Learning Fundamentals
+- Testing AI-Based Systems
+- Machine Learning Model Testing
+- Data Quality & Bias Testing
+- AI-Specific Test Techniques
+- Neural Network Testing
+- Adversarial Testing & Data Poisoning
+- Explainable AI (XAI)
+- AI-Based Test Automation
+- AI Ethics, Risks & Regulations
+
 ---
 
 ## 📊 GitHub Statistics
