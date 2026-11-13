@@ -13,7 +13,7 @@
 <a href="mailto:kduygu.ozdemir@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
----
+
 
 ## 👩‍💻 About Me
 
