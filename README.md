@@ -113,9 +113,6 @@ Knowledge areas include:
 - Risk-Based Testing
 - Test Automation Fundamentals
 
-
-## Certifications
-
 ### ISTQB® Certified Tester – Foundation Level (CTFL)
 
 Knowledge areas include:
